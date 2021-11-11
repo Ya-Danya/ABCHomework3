@@ -1,0 +1,9 @@
+1
+Aphorism text.
+Author.
+2
+Riddle text.
+Answer.
+3
+Proberb text.
+Country.

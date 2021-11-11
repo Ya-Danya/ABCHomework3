@@ -1,0 +1,9 @@
+1
+Aphorism text with no punctuation marks.
+Author.
+2
+Riddle text with me punctuation marks..
+Answer.
+3
+Proberb text with th biggest amount of punctuation marks...
+Country.
