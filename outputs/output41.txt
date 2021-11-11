@@ -1,0 +1,33 @@
+Storage of knowledges contains 8 elements:
+Author: Author 1.
+Aporism: Aphorism 1.
+Percentage of punctuation marks: 0.09090909090909091
+
+Author: Author 2.
+Aporism: Aphorism 2.
+Percentage of punctuation marks: 0.09090909090909091
+
+Author: dadaadd
+Aporism: Apthorism 3.
+Percentage of punctuation marks: 0.08333333333333333
+
+Riddle: Proverb.
+With answer: Country of proverv.
+Percentage of punctuation marks: 0.125
+
+Proverb: Riddle.
+From: Answer of this riddle.
+Percentage of punctuation marks: 0.14285714285714285
+
+Author: MEW.
+Aporism: Mew mew mew.
+Percentage of punctuation marks: 0.08333333333333333
+
+Riddle: Check plz.
+With answer: Poland.
+Percentage of punctuation marks: 0.1
+
+Proverb: The first centance. The second cestance. This is only for punctuations.
+From: wewe
+Percentage of punctuation marks: 0.04225352112676056
+

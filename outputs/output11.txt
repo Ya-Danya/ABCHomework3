@@ -1,0 +1,13 @@
+Storage of knowledges contains 3 elements:
+Author: 1
+Aporism: 1
+Percentage of punctuation marks: 0.0
+
+Proverb: 2
+From: 2
+Percentage of punctuation marks: 0.0
+
+Riddle: 3
+With answer: 3
+Percentage of punctuation marks: 0.0
+

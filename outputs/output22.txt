@@ -1,0 +1,5 @@
+Storage of knowledges contains 1 elements:
+Proverb: Riddle text.
+From: Answer.
+Percentage of punctuation marks: 0.08333333333333333
+
